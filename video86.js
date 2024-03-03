@@ -31,3 +31,5 @@ console.log(document.forms[0].one.value);// كدا هيجيب الا جوا ال
 // الاولي ودخلت علي الا جوهاا كماانform  كدا قولتله خش في ال 
 console.log(document.links[1].href);// href كدا هتجيب الا جوا ال 
 console.log(document.links[1]);// href كدا مش هتجيب الا جوا ال 
+
+console.log("God Is With Me At All Time");
