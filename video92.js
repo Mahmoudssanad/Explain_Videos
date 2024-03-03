@@ -47,3 +47,5 @@ window.onsubmit = function () {
 window.onblur = function () {
     console.log("onsubmit");
 };
+
+console.log("No God except Allah")
